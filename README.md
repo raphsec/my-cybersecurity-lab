@@ -33,7 +33,7 @@ To document all commands used during learning:
 ```bash
 history > my_lab_history.txt
 
-![IMG_0670](https://github.com/user-attachments/assets/84e4ae5e-fb66-4103-83f7-21741849a95a)
+![Command History](IMG_0670.jpeg)
 
 
 
@@ -49,7 +49,7 @@ Results:
 - Open ports
 - Running services
 - service versions (e.g., CUPS on port 631)
-![IMG_0671](https://github.com/user-attachments/assets/0bd5ed44-eac6-441e-9207-ec6e9053c136)
+![Nmap localhost Scan](IMG_0671.jpeg)
 Lesson: every opn port is a potential entry  point. knowing what's exposed is the first step in securing a system.
 
 
@@ -62,8 +62,7 @@ Lesson: every opn port is a potential entry  point. knowing what's exposed is th
 Results:
 - Active hosts on the network
 - My machine's IP:10.0.2.15
-![IMG_0677](https://github.com/user-attachments/assets/1d831a29-91af-4065-8362-8ecb3687097d)
-
+![Nmap Network Scan](IMG_0677.jpeg)
 
 
 
@@ -76,8 +75,8 @@ Observed:
 - live network traffic capture
 - filtered traffic by specific protocols
 - Background system communications
-![IMG_0678](https://github.com/user-attachments/assets/7a5566c1-8957-419a-bf70-07e3b177e7de)
-![IMG_0673](https://github.com/user-attachments/assets/1f1dd700-3d6f-4369-b91f-f34f457183c0)
+![Wireshark Capture 2](IMG_0678.jpeg)
+![Wireshark Live Capture](IMG_0673.jpeg)
 Lesson: Data is constantly moving across networks, even when you're not actively browsing.
 
 
@@ -91,7 +90,7 @@ Revealed:
 - Domain requests (e.g., facebook.com)
 -	IP resolutions in real time
 -	DNS queries leaving and returning to my machine
-![IMG_0675](https://github.com/user-attachments/assets/b24948d2-b793-4d52-81cf-bcf710b749a9)
+![DNS Filter](IMG_0675.jpeg)
 
 ✅ Key Takeaways
 -	Network scanning helps uncover exposed services
