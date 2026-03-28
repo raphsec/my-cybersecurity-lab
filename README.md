@@ -33,7 +33,7 @@ To document all commands used during learning:
 ```bash
 history > my_lab_history.txt
 
-![Command History](IMG_0670.jpeg)
+![Command History](https://github.com/raphsec/my-cybersecurity-lab/blob/main/IMG_0670.jpeg?raw=true)
 
 
 
