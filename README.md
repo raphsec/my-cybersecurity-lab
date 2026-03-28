@@ -33,7 +33,8 @@ To document all commands used during learning:
 ```bash
 history > my_lab_history.txt
 
-![IMG_0670](https://github.com/user-attachments/assets/780c12b8-fe50-4233-bfd6-cc7bc0932ee0)
+![IMG_0670](https://github.com/user-attachments/assets/84e4ae5e-fb66-4103-83f7-21741849a95a)
+
 
 
 
